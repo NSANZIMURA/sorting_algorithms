@@ -1,5 +1,6 @@
 #include "sort.h"
 #include <stdio.h>
+#include <stdbool.h>
 /**
  *_calloc - this is a calloc function
  *@nmemb: number of elemets
